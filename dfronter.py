@@ -1,8 +1,8 @@
 # Author: Mason Palma & Sean Fern
-# File: DFronter_v1.py
+# File: dFronter_v1.py
 # Date: 13DEC2020
 # Purpose: Parses network packet header data in order to identify possible domain 
-# fronting C2 actvity for further analysis.
+# fronting C2 activity for further analysis.
 
 import argparse
 import os
